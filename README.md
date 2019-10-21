@@ -3,4 +3,4 @@
 
 ## Academic
 [How Bayesian inference works](https://brohrer.github.io/how_bayesian_inference_works.html)
- 
+[CS294-158 Deep Unsupervised Learning Spring 2019](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
