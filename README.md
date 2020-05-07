@@ -14,6 +14,7 @@
 
 ## Google Cloud OnAir
 * [用 GCP 打造您的現代化數據倉儲](https://cloudonair.withgoogle.com/events/tw-data-analytics-episode1/watch?talk=build)
+* [如何透過 Anthos 打造可靠性服務](https://cloudonair.withgoogle.com/events/tw-anthos-day-episode3/watch?talk=reliability)
 
 ## Language study
 * [Lingvo](http://lingvo.tv/)
