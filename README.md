@@ -4,6 +4,7 @@
 * [搜尋引擎廣告真有效？](https://www.hbrtaiwan.com/article_content_AR0006886.html?utm_campaign=2002line&utm_medium=GH_post&utm_source=Line&utm_content=0211_1&utm_term=)
 * [只要9張圖，看懂什麼是5G](https://meethub.bnext.com.tw/%E3%80%905g%E7%A7%91%E6%99%AE%E3%80%91%E5%8F%AA%E8%A6%819%E5%BC%B5%E5%9C%96%EF%BC%8C%E7%9C%8B%E6%87%82%E4%BB%80%E9%BA%BC%E6%98%AF5g%EF%BD%9C%E5%A4%A7%E5%92%8C%E6%9C%89%E8%A9%B1%E8%AA%AA/)
 * [未來流通](https://www.mirai.com.tw/about-us/)
+* [Applied ML Summit Recap: 從研究開啟機器學習](https://youtu.be/dESOrOJR9Ds?t=11)
 
 ## AR
 * [Building an AR in a web application](https://codelabs.developers.google.com/codelabs/ar-with-webxr#0)
