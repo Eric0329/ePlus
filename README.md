@@ -7,7 +7,7 @@
 
 ### Draw 
 * https://midjourney.com/
-  * https://prompthero.com/, guide for text/keyword of image generation
+  * https://prompthero.com/, guide for the text/keyword of the image generation
 * https://openai.com/dall-e-2/
 * [CLIP-Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator), image to text
 
