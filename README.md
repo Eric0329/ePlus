@@ -2,6 +2,9 @@
 ## AI Generated Bot
 * https://chat.openai.com/
 
+## Code
+* [Copilot](https://github.com/features/copilot)
+
 ### Draw 
 * https://midjourney.com/
 * https://openai.com/dall-e-2/
