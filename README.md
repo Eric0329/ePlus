@@ -9,7 +9,7 @@
 * https://midjourney.com/
   * https://prompthero.com/, guide for text/keyword of image generation
 * https://openai.com/dall-e-2/
-* https://huggingface.co/spaces/pharma/CLIP-Interrogator, image to text
+* [CLIP-Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator), image to text
 
 ### Audio
 * https://www.aiva.ai/
