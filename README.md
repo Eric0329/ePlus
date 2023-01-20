@@ -1,3 +1,34 @@
+## Academic
+## AI Generated Bot
+* https://chat.openai.com/
+
+### Draw 
+* https://midjourney.com/
+* https://openai.com/dall-e-2/
+
+### Audio
+* https://www.aiva.ai/
+
+### Vedio edit
+* Clipchamp 
+
+
+### Machine learning
+* [How Bayesian inference works](https://brohrer.github.io/how_bayesian_inference_works.html)
+* [CS294-158 Deep Unsupervised Learning Spring 2019](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
+* [Machine Learning](https://www.youtube.com/playlist?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)
+
+### NLP
+* [funNLP](https://github.com/fighting41love/funNLP)
+
+## Google Cloud OnAir
+* [Build and deploy a model with Vertex AI](https://codelabs.developers.google.com/codelabs/vertex-ai-custom-models#0)
+* [用 GCP 打造您的現代化數據倉儲](https://cloudonair.withgoogle.com/events/tw-data-analytics-episode1/watch?talk=build)
+* [如何透過 Anthos 打造可靠性服務](https://cloudonair.withgoogle.com/events/tw-anthos-day-episode3/watch?talk=reliability)
+
+## UI/UX
+* [How Google measures and improves UX with the HEART framework](https://www.appcues.com/blog/google-improves-user-experience-with-heart-framework)
+
 ## Article
 * [不只是消費符號，IKEA 如何成為全球生活風格代表？](https://meet.bnext.com.tw/articles/view/42384)
 * [除了 IKEA，你還可以參考這 14 間網路討論度超高的台灣家具品牌及選品店](https://today.line.me/TW/pc/article/qBD3jy?utm_source=copyshare&fbclid=IwAR2QO3Cb9F0BFxZOS4fNWd00ZUIbQc1uc7n4LkAYQb5PiyU-DnXzWTcX04A)
@@ -12,23 +43,3 @@
 ## GTM
 * [Quick start](https://developers.google.com/tag-manager/quickstart)
 * [Understanding Google Tag Manager Workspaces](https://www.optimizesmart.com/google-tag-manager-workspaces/)
-
-## Academic
-### Machine learning
-* [How Bayesian inference works](https://brohrer.github.io/how_bayesian_inference_works.html)
-* [CS294-158 Deep Unsupervised Learning Spring 2019](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
-* [Machine Learning](https://www.youtube.com/playlist?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)
-
-### NLP
-* [funNLP](https://github.com/fighting41love/funNLP)
-
-## Google Cloud OnAir
-* [Build and deploy a model with Vertex AI](https://codelabs.developers.google.com/codelabs/vertex-ai-custom-models#0)
-* [用 GCP 打造您的現代化數據倉儲](https://cloudonair.withgoogle.com/events/tw-data-analytics-episode1/watch?talk=build)
-* [如何透過 Anthos 打造可靠性服務](https://cloudonair.withgoogle.com/events/tw-anthos-day-episode3/watch?talk=reliability)
-
-## Language study
-* [Lingvo](http://lingvo.tv/)
-
-## UI/UX
-* [How Google measures and improves UX with the HEART framework](https://www.appcues.com/blog/google-improves-user-experience-with-heart-framework)
