@@ -6,6 +6,7 @@
 * [Copilot](https://github.com/features/copilot)
 
 ### Draw 
+* https://playgroundai.com/
 * https://midjourney.com/
   * https://prompthero.com/, guide for the text/keyword of the image generation
 * https://openai.com/dall-e-2/
