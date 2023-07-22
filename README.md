@@ -21,9 +21,9 @@
 
 
 ### Machine learning
+* [Machine Learning](https://www.youtube.com/playlist?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)
 * [How Bayesian inference works](https://brohrer.github.io/how_bayesian_inference_works.html)
 * [CS294-158 Deep Unsupervised Learning Spring 2019](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
-* [Machine Learning](https://www.youtube.com/playlist?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)
 
 ### NLP
 * [funNLP](https://github.com/fighting41love/funNLP)
