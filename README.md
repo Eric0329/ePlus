@@ -1,6 +1,7 @@
 ## Academic
 ## AI Generated Bot
 * https://chat.openai.com/
+* https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
 
 ## Code
 * [Copilot](https://github.com/features/copilot)
