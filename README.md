@@ -6,6 +6,10 @@
 ## Code
 * [Copilot](https://github.com/features/copilot)
 
+## Database
+* [Best Practices for Picking PostgreSQL Data Types](https://www.timescale.com/blog/best-practices-for-picking-postgresql-data-types/)
+* [Don't Do This](https://wiki.postgresql.org/wiki/Don't_Do_This)
+
 ### Draw 
 * https://playgroundai.com/
 * https://midjourney.com/
