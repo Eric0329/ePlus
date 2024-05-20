@@ -9,6 +9,7 @@
 ## Database
 * [Best Practices for Picking PostgreSQL Data Types](https://www.timescale.com/blog/best-practices-for-picking-postgresql-data-types/)
 * [Don't Do This](https://wiki.postgresql.org/wiki/Don't_Do_This)
+* [The internal of PostgreSQL](https://www.interdb.jp/pg/pgsql03/02.html)
 
 ### Draw 
 * https://playgroundai.com/
