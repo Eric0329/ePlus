@@ -1,7 +1,13 @@
 ### Before beginning
 
-- [Notes on Postgresql Internals](https://www.linkedin.com/pulse/decoding-postgres-deep-dive-database-internals-prasenjit-sutradhar-e2x6c/)
-- [Database Page Layout](https://www.postgresql.org/docs/current/storage-page-layout.html) 
-- 
+
+![image](https://github.com/Eric0329/ePlus/assets/3777869/7ead3fc5-dc01-4791-b744-823197c90f4b)
+
+*Page layout of a heap table file from [Notes on Postgresql Internals](https://muatik.medium.com/notes-on-postgresql-internals-4050340c9f4f)*
+
+- [Notes on Postgresql Internals](https://muatik.medium.com/notes-on-postgresql-internals-4050340c9f4f) 
+- [73.1. Database File Layout ](https://www.postgresql.org/docs/current/storage-page-layout.html)
+  - [73.6. Database Page Layout](https://www.postgresql.org/docs/current/storage-page-layout.html) 
+
 
 ### 3.2. COST ESTIMATION IN SINGLE-TABLE QUERY
