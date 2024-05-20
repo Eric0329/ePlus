@@ -25,4 +25,6 @@ The primary cost factors:
 - [cpu_operator_cost](https://www.postgresql.org/docs/current/runtime-config-query.html#GUC-CPU-OPERATOR-COST): 0.0025
 - [cpu_index_tuple_cost](https://www.postgresql.org/docs/current/runtime-config-query.html#GUC-CPU-INDEX-TUPLE-COST): 0.005
 
-Selectivity: the proportion of the search range of the index that satisfies the `WHERE` clause
+#### Selectivity: the proportion of the search range of the index that satisfies the `WHERE` clause
+- Most Common Value (MCV)
+- histogram_bounds
