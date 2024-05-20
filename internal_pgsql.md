@@ -5,9 +5,14 @@
 
 *Page layout of a heap table file from [Notes on Postgresql Internals](https://muatik.medium.com/notes-on-postgresql-internals-4050340c9f4f)*
 
+#### Terminology
+- heap file: every table and index is stored as an array of pages of a fixed size (usually 8 kB)
+- block/page
+- tuple/item/row 
 
-
-- [Notes on Postgresql Internals](https://muatik.medium.com/notes-on-postgresql-internals-4050340c9f4f) 
+#### Ref
+- [Notes on Postgresql Internals](https://muatik.medium.com/notes-on-postgresql-internals-4050340c9f4f)
+- [SQL and PostgreSQL: The Complete Developer's Guide, Section 22, 23](https://www.udemy.com/course/sql-and-postgresql/?couponCode=LEADERSALE24A)  
 - [73.1. Database File Layout](https://www.postgresql.org/docs/current/storage-file-layout.html)
 - [73.6. Database Page Layout](https://www.postgresql.org/docs/current/storage-page-layout.html) 
 
