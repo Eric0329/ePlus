@@ -18,7 +18,7 @@
 
 
 #### 3.2. COST ESTIMATION IN SINGLE-TABLE QUERY
-The primary cost factors:
+##### The primary cost factors:
 - I/O Cost
   - [seq_page_cost](https://www.postgresql.org/docs/current/runtime-config-query.html#GUC-SEQ-PAGE-COST): 1.0
   - [random_page_cost](https://www.postgresql.org/docs/current/runtime-config-query.html#GUC-RANDOM-PAGE-COST): 4.0 
@@ -27,6 +27,15 @@ The primary cost factors:
   - [cpu_operator_cost](https://www.postgresql.org/docs/current/runtime-config-query.html#GUC-CPU-OPERATOR-COST): 0.0025
   - [cpu_index_tuple_cost](https://www.postgresql.org/docs/current/runtime-config-query.html#GUC-CPU-INDEX-TUPLE-COST): 0.005
 
-#### Selectivity: the proportion of the search range of the index that satisfies the `WHERE` clause
+##### Total cost
+`start-up cost + run cost`
+
+Selectivity: the proportion of the search range of the index that satisfies the `WHERE` clause
 - Most Common Value (MCV)
 - histogram_bounds
+
+##### [Sequential Scan](https://www.interdb.jp/pg/pgsql03/02.html#321-sequential-scan)
+![image](https://github.com/Eric0329/ePlus/assets/3777869/7a98263c-2f89-4fc6-9989-35240529b047)
+
+
+
