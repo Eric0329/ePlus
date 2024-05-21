@@ -47,9 +47,7 @@
 ![image](https://github.com/Eric0329/ePlus/assets/3777869/e7577fb3-c0f3-4ff5-81ce-c335ab1869c1)
 
 
-
-
 Selectivity: the proportion of the search range of the index that satisfies the `WHERE` clause
-- Most Common Value (MCV)
-- histogram_bounds
+- Most Common Value (MCV), categorizable data
+- Histogram bounds, real numbers data
 
