@@ -1,19 +1,19 @@
-### Before beginning
+#### Before beginning
 
-#### Page layout of a heap table file
+##### Page layout of a heap table file
 ![image](https://github.com/Eric0329/ePlus/assets/3777869/7ead3fc5-dc01-4791-b744-823197c90f4b)
 
 *Page layout of a heap table file from [Notes on Postgresql Internals](https://muatik.medium.com/notes-on-postgresql-internals-4050340c9f4f)*
 
-#### Terminology
+##### Terminology
 - heap file: every table and index is stored as an array of pages of a fixed size (usually 8 kB)
 - block/page
 - tuple/item/row 
 
-#### Notes
+##### Notes
 - Setting the `Page Fill Factor` to Optimize Hot Update Table, 
 
-#### Ref
+##### Ref
 - [Notes on Postgresql Internals](https://muatik.medium.com/notes-on-postgresql-internals-4050340c9f4f)
 - [SQL and PostgreSQL: The Complete Developer's Guide, Section 22, 23](https://www.udemy.com/course/sql-and-postgresql/?couponCode=LEADERSALE24A)  
 - [73.1. Database File Layout](https://www.postgresql.org/docs/current/storage-file-layout.html)
