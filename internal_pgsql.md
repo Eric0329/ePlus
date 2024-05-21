@@ -17,7 +17,7 @@
 - [73.6. Database Page Layout](https://www.postgresql.org/docs/current/storage-page-layout.html) 
 
 
-#### 3.2. COST ESTIMATION IN SINGLE-TABLE QUERY
+#### [3.2. COST ESTIMATION IN SINGLE-TABLE QUERY](https://www.interdb.jp/pg/pgsql03/02.html)
 ##### The cost formula and its factors:
 - Total cost formula
   - `start-up cost + run cost`
@@ -34,7 +34,8 @@
 
 ##### [Index Scan](https://www.interdb.jp/pg/pgsql03/02.html#322-index-scan) 
 ![image](https://github.com/Eric0329/ePlus/assets/3777869/41f8d334-1352-428e-be67-25572b140487)
-![image](https://github.com/Eric0329/ePlus/assets/3777869/a0a88495-9a9e-45dd-a4fa-4d6e6cac135d)
+![image](https://github.com/Eric0329/ePlus/assets/3777869/3c33d8cf-edc8-4779-be69-ed532e9e91df)
+
 
 
 Selectivity: the proportion of the search range of the index that satisfies the `WHERE` clause
