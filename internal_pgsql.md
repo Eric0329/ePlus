@@ -19,7 +19,7 @@
 
 #### 3.2. COST ESTIMATION IN SINGLE-TABLE QUERY
 ##### The cost formula and its factors:
-- Total cost
+- Total cost formula
   - `start-up cost + run cost`
 - I/O Cost factors
   - [seq_page_cost](https://www.postgresql.org/docs/current/runtime-config-query.html#GUC-SEQ-PAGE-COST): 1.0
