@@ -10,11 +10,15 @@
 - block/page
 - tuple/item/row 
 
+#### Notes
+- Adjust `Page fill factor` to Optimize hot update table, 
+
 #### Ref
 - [Notes on Postgresql Internals](https://muatik.medium.com/notes-on-postgresql-internals-4050340c9f4f)
 - [SQL and PostgreSQL: The Complete Developer's Guide, Section 22, 23](https://www.udemy.com/course/sql-and-postgresql/?couponCode=LEADERSALE24A)  
 - [73.1. Database File Layout](https://www.postgresql.org/docs/current/storage-file-layout.html)
-- [73.6. Database Page Layout](https://www.postgresql.org/docs/current/storage-page-layout.html) 
+- [73.6. Database Page Layout](https://www.postgresql.org/docs/current/storage-page-layout.html)
+- [Postgres Performance Boost: HOT Updates and Fill Factor](https://www.crunchydata.com/blog/postgres-performance-boost-hot-updates-and-fill-factor)
 
 
 #### [3.2. COST ESTIMATION IN SINGLE-TABLE QUERY](https://www.interdb.jp/pg/pgsql03/02.html)
@@ -39,6 +43,9 @@
 ![image](https://github.com/Eric0329/ePlus/assets/3777869/41f8d334-1352-428e-be67-25572b140487)
 ![image](https://github.com/Eric0329/ePlus/assets/3777869/3c33d8cf-edc8-4779-be69-ed532e9e91df)
 ![image](https://github.com/Eric0329/ePlus/assets/3777869/3ea6a4f2-0709-4713-a2c0-69a2b93ffb30)
+![image](https://github.com/Eric0329/ePlus/assets/3777869/58ec056d-44fa-4275-a4bc-e59f25141ab6)
+![image](https://github.com/Eric0329/ePlus/assets/3777869/ea2c15e6-299a-4e6b-af8b-062b09141642)
+![image](https://github.com/Eric0329/ePlus/assets/3777869/e7577fb3-c0f3-4ff5-81ce-c335ab1869c1)
 
 
 
