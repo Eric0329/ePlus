@@ -11,7 +11,7 @@
 - tuple/item/row 
 
 #### Notes
-- Adjust `Page fill factor` to Optimize hot update table, 
+- Setting the `Page Fill Factor` to Optimize Hot Update Table, 
 
 #### Ref
 - [Notes on Postgresql Internals](https://muatik.medium.com/notes-on-postgresql-internals-4050340c9f4f)
