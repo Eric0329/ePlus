@@ -32,8 +32,7 @@
 ##### [Sequential Scan](https://www.interdb.jp/pg/pgsql03/02.html#321-sequential-scan)
 ![image](https://github.com/Eric0329/ePlus/assets/3777869/7a98263c-2f89-4fc6-9989-35240529b047)
 
-https://www.interdb.jp/pg/pgsql03/02.html#322-index-scan
-
+##### [Index Scan](https://www.interdb.jp/pg/pgsql03/02.html#322-index-scan) 
 Selectivity: the proportion of the search range of the index that satisfies the `WHERE` clause
 - Most Common Value (MCV)
 - histogram_bounds
