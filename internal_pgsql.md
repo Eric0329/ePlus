@@ -33,6 +33,10 @@
 ![image](https://github.com/Eric0329/ePlus/assets/3777869/7a98263c-2f89-4fc6-9989-35240529b047)
 
 ##### [Index Scan](https://www.interdb.jp/pg/pgsql03/02.html#322-index-scan) 
+![image](https://github.com/Eric0329/ePlus/assets/3777869/41f8d334-1352-428e-be67-25572b140487)
+![image](https://github.com/Eric0329/ePlus/assets/3777869/a0a88495-9a9e-45dd-a4fa-4d6e6cac135d)
+
+
 Selectivity: the proportion of the search range of the index that satisfies the `WHERE` clause
 - Most Common Value (MCV)
 - histogram_bounds
