@@ -40,19 +40,17 @@
 ![image](https://github.com/Eric0329/ePlus/assets/3777869/7a98263c-2f89-4fc6-9989-35240529b047)
 
 ##### [Index Scan](https://www.interdb.jp/pg/pgsql03/02.html#322-index-scan) 
-Selectivity: the proportion of the search range of the index that satisfies the `WHERE` clause
-- Most Common Value (MCV), categorizable data
-![image](https://github.com/Eric0329/ePlus/assets/3777869/902caad9-94f3-4bd6-b19a-f7c40ad6ea92)
-
-- Histogram bounds, real numbers data
-![image](https://github.com/Eric0329/ePlus/assets/3777869/36447fa0-3a47-44e2-8af3-6f12597ffba3)
-
 ![image](https://github.com/Eric0329/ePlus/assets/3777869/3c33d8cf-edc8-4779-be69-ed532e9e91df)
 ![image](https://github.com/Eric0329/ePlus/assets/3777869/3ea6a4f2-0709-4713-a2c0-69a2b93ffb30)
 ![image](https://github.com/Eric0329/ePlus/assets/3777869/58ec056d-44fa-4275-a4bc-e59f25141ab6)
 ![image](https://github.com/Eric0329/ePlus/assets/3777869/ea2c15e6-299a-4e6b-af8b-062b09141642)
 ![image](https://github.com/Eric0329/ePlus/assets/3777869/e7577fb3-c0f3-4ff5-81ce-c335ab1869c1)
 
+Selectivity: the proportion of the search range of the index that satisfies the `WHERE` clause
+- Most Common Value (MCV), categorizable data
+![image](https://github.com/Eric0329/ePlus/assets/3777869/902caad9-94f3-4bd6-b19a-f7c40ad6ea92)
 
+- Histogram bounds, real numbers data
+![image](https://github.com/Eric0329/ePlus/assets/3777869/36447fa0-3a47-44e2-8af3-6f12597ffba3)
 
 
