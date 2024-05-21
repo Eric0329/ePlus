@@ -1,5 +1,4 @@
 #### Before beginning
-
 ##### Page layout of a heap table file
 ![image](https://github.com/Eric0329/ePlus/assets/3777869/7ead3fc5-dc01-4791-b744-823197c90f4b)
 
