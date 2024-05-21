@@ -29,12 +29,17 @@
   - [cpu_operator_cost](https://www.postgresql.org/docs/current/runtime-config-query.html#GUC-CPU-OPERATOR-COST): 0.0025
   - [cpu_index_tuple_cost](https://www.postgresql.org/docs/current/runtime-config-query.html#GUC-CPU-INDEX-TUPLE-COST): 0.005
 
+##### Number of Tuples, Pages, Index_tuples, and Index_tuples
+- query from `pg_class` 
+
 ##### [Sequential Scan](https://www.interdb.jp/pg/pgsql03/02.html#321-sequential-scan)
 ![image](https://github.com/Eric0329/ePlus/assets/3777869/7a98263c-2f89-4fc6-9989-35240529b047)
 
 ##### [Index Scan](https://www.interdb.jp/pg/pgsql03/02.html#322-index-scan) 
 ![image](https://github.com/Eric0329/ePlus/assets/3777869/41f8d334-1352-428e-be67-25572b140487)
 ![image](https://github.com/Eric0329/ePlus/assets/3777869/3c33d8cf-edc8-4779-be69-ed532e9e91df)
+![image](https://github.com/Eric0329/ePlus/assets/3777869/3ea6a4f2-0709-4713-a2c0-69a2b93ffb30)
+
 
 
 
