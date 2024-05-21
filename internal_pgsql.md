@@ -52,4 +52,3 @@ Selectivity: the proportion of the search range of the index that satisfies the 
 - Histogram bounds, real numbers data
 ![image](https://github.com/Eric0329/ePlus/assets/3777869/36447fa0-3a47-44e2-8af3-6f12597ffba3)
 
-
