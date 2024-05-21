@@ -45,10 +45,10 @@
 ![image](https://github.com/Eric0329/ePlus/assets/3777869/ea2c15e6-299a-4e6b-af8b-062b09141642)
 ![image](https://github.com/Eric0329/ePlus/assets/3777869/e7577fb3-c0f3-4ff5-81ce-c335ab1869c1)
 
-Selectivity: the proportion of the search range of the index that satisfies the `WHERE` clause
-- Most Common Value (MCV), categorizable data
+- Selectivity: the proportion of the search range of the index that satisfies the `WHERE` clause
+  - Most Common Value (MCV), categorizable data
 ![image](https://github.com/Eric0329/ePlus/assets/3777869/902caad9-94f3-4bd6-b19a-f7c40ad6ea92)
 
-- Histogram bounds, real numbers data
+  - Histogram bounds, real numbers data
 ![image](https://github.com/Eric0329/ePlus/assets/3777869/36447fa0-3a47-44e2-8af3-6f12597ffba3)
 
