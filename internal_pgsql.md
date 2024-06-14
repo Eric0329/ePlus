@@ -52,3 +52,14 @@
   - Histogram bounds, real numbers data
 ![image](https://github.com/Eric0329/ePlus/assets/3777869/36447fa0-3a47-44e2-8af3-6f12597ffba3)
 
+#### 3.5. JOIN OPERATIONS
+- Materialized Nested Loop Join
+  - writes the inner table tuples to the work_mem or a temporary file [tuplestore.c] before running a nested loop join (https://github.com/postgres/postgres/blob/master/src/backend/utils/sort/tuplestore.c)
+- Materialized Merge Join
+  - materializes the result of the sorted inner table before merge join
+
+
+- Hybrid Hash Join with Skew
+  -  
+
+  
