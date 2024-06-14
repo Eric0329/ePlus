@@ -57,9 +57,9 @@
   - writes the inner table tuples to the work_mem or a temporary file [tuplestore.c] before running a nested loop join (https://github.com/postgres/postgres/blob/master/src/backend/utils/sort/tuplestore.c)
 - Materialized Merge Join
   - materializes the result of the sorted inner table before merge join
-
+  ![image](https://github.com/Eric0329/ePlus/assets/3777869/5c99d064-7dd0-466d-aa77-3e9ccdec9e81)
 
 - Hybrid Hash Join with Skew
-  -  
+ 
 
   
