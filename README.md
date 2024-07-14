@@ -26,7 +26,9 @@
 
 
 ### Machine learning
-* [Machine Learning](https://www.youtube.com/playlist?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)
+* [機器學習2021 Prof. Hung-yi Lee](https://www.youtube.com/playlist?list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J)
+  * [ML 2003 Spring](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php) 
+* [Applied Deep Learning Prof. Vivian](https://www.youtube.com/playlist?list=PLOAQYZPRn2V4jYwTGKUH4YaU6NE6VROZX)
 * [How Bayesian inference works](https://brohrer.github.io/how_bayesian_inference_works.html)
 * [CS294-158 Deep Unsupervised Learning Spring 2019](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
 
