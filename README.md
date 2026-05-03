@@ -43,6 +43,13 @@
 ## UI/UX
 * [How Google measures and improves UX with the HEART framework](https://www.appcues.com/blog/google-improves-user-experience-with-heart-framework)
 
+## AR
+* [Building an AR in a web application](https://codelabs.developers.google.com/codelabs/ar-with-webxr#0)
+
+## GTM
+* [Quick start](https://developers.google.com/tag-manager/quickstart)
+* [Understanding Google Tag Manager Workspaces](https://www.optimizesmart.com/google-tag-manager-workspaces/)
+
 ## Article
 * [不只是消費符號，IKEA 如何成為全球生活風格代表？](https://meet.bnext.com.tw/articles/view/42384)
 * [除了 IKEA，你還可以參考這 14 間網路討論度超高的台灣家具品牌及選品店](https://today.line.me/TW/pc/article/qBD3jy?utm_source=copyshare&fbclid=IwAR2QO3Cb9F0BFxZOS4fNWd00ZUIbQc1uc7n4LkAYQb5PiyU-DnXzWTcX04A)
@@ -51,10 +58,3 @@
 * [未來流通](https://www.mirai.com.tw/about-us/)
 * [Applied ML Summit Recap: 從研究開啟機器學習](https://youtu.be/dESOrOJR9Ds?t=11)
 * [讀書方法提示詞: 費曼法(AI提問)、狩獵法、辯論法](https://www.youtube.com/watch?v=Ok5jTLhN7V8)
-
-## AR
-* [Building an AR in a web application](https://codelabs.developers.google.com/codelabs/ar-with-webxr#0)
-
-## GTM
-* [Quick start](https://developers.google.com/tag-manager/quickstart)
-* [Understanding Google Tag Manager Workspaces](https://www.optimizesmart.com/google-tag-manager-workspaces/)
